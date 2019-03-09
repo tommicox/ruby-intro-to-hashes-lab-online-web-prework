@@ -100,6 +100,7 @@ def monopoly_with_fourth_tier
 	       
 	     }
 	}
+	end
 	   monopoly = {
 	     railroads: {
 	       pieces: 4,
